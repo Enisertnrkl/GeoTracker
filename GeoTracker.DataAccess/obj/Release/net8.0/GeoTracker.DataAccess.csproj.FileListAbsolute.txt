@@ -1,0 +1,15 @@
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\bin\Release\net8.0\GeoTracker.DataAccess.deps.json
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\bin\Release\net8.0\GeoTracker.DataAccess.dll
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\bin\Release\net8.0\GeoTracker.DataAccess.pdb
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\bin\Release\net8.0\GeoTracker.Presentation.dll
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\bin\Release\net8.0\GeoTracker.Presentation.pdb
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\obj\Release\net8.0\GeoTracker.DataAccess.csproj.AssemblyReference.cache
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\obj\Release\net8.0\GeoTracker.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\obj\Release\net8.0\GeoTracker.DataAccess.AssemblyInfoInputs.cache
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\obj\Release\net8.0\GeoTracker.DataAccess.AssemblyInfo.cs
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\obj\Release\net8.0\GeoTracker.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\obj\Release\net8.0\GeoTrack.8EE4EC76.Up2Date
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\obj\Release\net8.0\GeoTracker.DataAccess.dll
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\obj\Release\net8.0\refint\GeoTracker.DataAccess.dll
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\obj\Release\net8.0\GeoTracker.DataAccess.pdb
+C:\Users\enise\source\repos\GeoTracker\GeoTracker.DataAccess\obj\Release\net8.0\ref\GeoTracker.DataAccess.dll

@@ -26,13 +26,13 @@ public partial class Login : ContentPage
 				if (affectedRows > 0)
 				{
 					await SecureStorage.SetAsync("username",user);
-					DisplayAlert("Giriş Başarılı", "Başarıyla giriş yapıldı.", "Tamam");
+					DisplayAlert("Login Successful", "Successfully logged in.", "OK");
 					MainPage mainPage = new MainPage();
 					await Navigation.PushAsync(mainPage);
 				}
 				else
 				{
-					DisplayAlert("Giriş Başarısız", "Kullanıcı adı veya şifre yanlış.", "Tamam");
+					DisplayAlert("Login Failed", "Wrong username or password.", "OK");
 				}
 			}
 		}

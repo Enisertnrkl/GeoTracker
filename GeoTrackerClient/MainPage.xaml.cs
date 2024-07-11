@@ -13,7 +13,7 @@ namespace GeoTrackerClient
         }
         private void StartTimer()
         {
-            Device.StartTimer(TimeSpan.FromSeconds(5), () =>
+            Device.StartTimer(TimeSpan.FromSeconds(2), () =>
             {
                 if (!isTimerRunning)
                     return false;
@@ -42,7 +42,7 @@ namespace GeoTrackerClient
         {
             try
             {
-                GeolocationRequest request = new GeolocationRequest(GeolocationAccuracy.Medium, TimeSpan.FromSeconds(10));
+                GeolocationRequest request = new GeolocationRequest(GeolocationAccuracy.Best, TimeSpan.FromSeconds(5));
                 Location location = await Geolocation.GetLocationAsync(request);
 
                 if (location != null)
